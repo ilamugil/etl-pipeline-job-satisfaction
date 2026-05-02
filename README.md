@@ -93,6 +93,8 @@ ORDER BY count DESC;
 ```
 
 ---
+| Employee_Survey_PowerBI.pbix | Power BI Dashboard — Satisfaction, Gender, Marital analysis |
+| Employee_Survey_Dashboard.xlsx | Excel Dashboard with charts and summary tables |
 
 ##  Author
 
